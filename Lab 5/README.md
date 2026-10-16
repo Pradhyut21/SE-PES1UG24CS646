@@ -6,7 +6,6 @@ Pylint: **10.00/10**. Flake8: **0 findings**. Bandit: **0 active findings**, wit
 
 - [Cleaned code](tournament_scoreboard.py)
 - [Issues and fixes](issues.md)
-- [Short reflection](reflection.md)
 - [Before reports](reports/before) and [after reports](reports/after)
 - [Submission details](SUBMISSION.md)
 
