@@ -1,0 +1,20 @@
+test_caller_player_list_is_copied (__main__.ScoreboardChecks.test_caller_player_list_is_copied) ... ok
+test_coin_returns_valid_side (__main__.ScoreboardChecks.test_coin_returns_valid_side) ... ok
+test_default_player_lists_are_independent (__main__.ScoreboardChecks.test_default_player_lists_are_independent) ... ok
+test_demo_matches_original_output_and_standings (__main__.ScoreboardChecks.test_demo_matches_original_output_and_standings) ... ok
+test_empty_and_one_team_top_two (__main__.ScoreboardChecks.test_empty_and_one_team_top_two) ... ok
+test_goal_difference_breaks_points_ties (__main__.ScoreboardChecks.test_goal_difference_breaks_points_ties) ... ok
+test_home_away_draw_results (__main__.ScoreboardChecks.test_home_away_draw_results) ... ok
+test_import_has_no_demo_side_effects (__main__.ScoreboardChecks.test_import_has_no_demo_side_effects) ... ok
+test_publish_missing_source_does_not_launch (__main__.ScoreboardChecks.test_publish_missing_source_does_not_launch) ... ok
+test_publish_propagates_transfer_failure (__main__.ScoreboardChecks.test_publish_propagates_transfer_failure) ... ok
+test_publish_rejects_unsafe_destination_before_process_lookup (__main__.ScoreboardChecks.test_publish_rejects_unsafe_destination_before_process_lookup) ... ok
+test_publish_reports_missing_scp_without_launching (__main__.ScoreboardChecks.test_publish_reports_missing_scp_without_launching) ... ok
+test_publish_uses_fixed_argv_and_no_shell (__main__.ScoreboardChecks.test_publish_uses_fixed_argv_and_no_shell) ... ok
+test_temp_path_is_created_unique_and_writable (__main__.ScoreboardChecks.test_temp_path_is_created_unique_and_writable) ... ok
+test_win_draw_stats_and_match_history (__main__.ScoreboardChecks.test_win_draw_stats_and_match_history) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.038s
+
+OK

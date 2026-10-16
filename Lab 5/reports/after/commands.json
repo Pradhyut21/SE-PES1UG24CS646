@@ -1,0 +1,18 @@
+{
+  "pylint": {
+    "command": "python -m pylint tournament_scoreboard.py",
+    "exit_code": 0
+  },
+  "bandit": {
+    "command": "python -m bandit -r tournament_scoreboard.py -f txt",
+    "exit_code": 0
+  },
+  "flake8": {
+    "command": "python -m flake8 tournament_scoreboard.py",
+    "exit_code": 0
+  },
+  "demo": {
+    "command": "python tournament_scoreboard.py",
+    "exit_code": 0
+  }
+}
